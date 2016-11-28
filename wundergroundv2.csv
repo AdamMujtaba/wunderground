@@ -1,0 +1,728 @@
+date,min temp,max temp,mean temp
+"12:00 AM AST on January 01, 2015",9,22,16
+,,,
+"12:00 AM AST on January 02, 2015",9,23,16
+,,,
+"3:00 AM AST on January 03, 2015",12,23,18
+,,,
+"12:00 AM AST on January 04, 2015",13,20,16
+,,,
+"12:00 AM AST on January 05, 2015",9,21,15
+,,,
+"12:00 AM AST on January 06, 2015",7,22,14
+,,,
+"12:00 AM AST on January 07, 2015",12,24,18
+,,,
+"12:00 AM AST on January 08, 2015",6,15,10
+,,,
+"12:00 AM AST on January 09, 2015",6,16,11
+,,,
+"12:00 AM AST on January 10, 2015",5,14,10
+,,,
+"12:00 AM AST on January 11, 2015",3,15,9
+,,,
+"12:00 AM AST on January 12, 2015",2,15,9
+,,,
+"12:00 AM AST on January 13, 2015",3,18,10
+,,,
+"12:00 AM AST on January 14, 2015",3,19,11
+,,,
+"12:00 AM AST on January 15, 2015",6,16,11
+,,,
+"12:00 AM AST on January 16, 2015",8,19,14
+,,,
+"12:00 AM AST on January 17, 2015",8,19,14
+,,,
+"12:00 AM AST on January 18, 2015",4,15,10
+,,,
+"12:00 AM AST on January 19, 2015",5,18,12
+,,,
+"12:00 AM AST on January 20, 2015",5,17,11
+,,,
+"12:00 AM AST on January 21, 2015",5,20,12
+,,,
+"12:00 AM AST on January 22, 2015",6,22,14
+,,,
+"12:00 AM AST on January 23, 2015",6,23,14
+,,,
+"12:00 AM AST on January 24, 2015",4,22,13
+,,,
+"12:00 AM AST on January 25, 2015",6,23,14
+,,,
+"12:00 AM AST on January 26, 2015",9,22,16
+,,,
+"12:00 AM AST on January 27, 2015",15,23,19
+,,,
+"12:00 AM AST on January 28, 2015",14,35,24
+,,,
+"12:00 AM AST on January 29, 2015",13,24,18
+,,,
+"12:00 AM AST on January 30, 2015",15,24,20
+,,,
+"12:00 AM AST on January 31, 2015",9,24,17
+,,,
+"12:00 AM AST on February 01, 2015",9,22,16
+,,,
+"12:00 AM AST on February 02, 2015",8,23,16
+,,,
+"12:00 AM AST on February 03, 2015",9,26,18
+,,,
+"12:00 AM AST on February 04, 2015",13,28,21
+,,,
+"12:00 AM AST on February 05, 2015",7,23,15
+,,,
+"12:00 AM AST on February 06, 2015",8,23,16
+,,,
+"12:00 AM AST on February 07, 2015",3,22,12
+,,,
+"12:00 AM AST on February 08, 2015",15,23,19
+,,,
+"12:00 AM AST on February 09, 2015",14,26,20
+,,,
+"12:00 AM AST on February 10, 2015",17,28,22
+,,,
+"12:00 AM AST on February 11, 2015",13,28,24
+,,,
+"12:00 AM AST on February 12, 2015",10,22,16
+,,,
+"12:00 AM AST on February 13, 2015",9,20,14
+,,,
+"12:00 AM AST on February 14, 2015",9,23,16
+,,,
+"12:00 AM AST on February 15, 2015",12,24,18
+,,,
+"12:00 AM AST on February 16, 2015",14,28,21
+,,,
+"12:00 AM AST on February 17, 2015",14,24,19
+,,,
+"12:00 AM AST on February 18, 2015",14,22,18
+,,,
+"12:00 AM AST on February 19, 2015",14,19,16
+,,,
+"12:00 AM AST on February 20, 2015",10,23,16
+,,,
+"12:00 AM AST on February 21, 2015",8,17,12
+,,,
+"12:00 AM AST on February 22, 2015",5,11,8
+,,,
+"12:00 AM AST on February 23, 2015",4,18,11
+,,,
+"12:00 AM AST on February 24, 2015",6,20,13
+,,,
+"12:00 AM AST on February 25, 2015",10,22,16
+,,,
+"12:00 AM AST on February 26, 2015",10,22,16
+,,,
+"12:00 AM AST on February 27, 2015",10,25,18
+,,,
+"12:00 AM AST on February 28, 2015",10,27,18
+,,,
+"12:00 AM AST on March 01, 2015",11,28,20
+,,,
+"12:00 AM AST on March 02, 2015",13,27,20
+,,,
+"12:00 AM AST on March 03, 2015",12,26,19
+,,,
+"12:00 AM AST on March 04, 2015",12,26,19
+,,,
+"12:00 AM AST on March 05, 2015",12,25,18
+,,,
+"12:00 AM AST on March 06, 2015",9,26,18
+,,,
+"12:00 AM AST on March 07, 2015",10,28,19
+,,,
+"12:00 AM AST on March 08, 2015",11,30,20
+,,,
+"12:00 AM AST on March 09, 2015",18,27,22
+,,,
+"12:00 AM AST on March 10, 2015",15,28,22
+,,,
+"12:00 AM AST on March 11, 2015",13,28,20
+,,,
+"12:00 AM AST on March 12, 2015",12,29,20
+,,,
+"12:00 AM AST on March 13, 2015",16,27,22
+,,,
+"12:00 AM AST on March 14, 2015",16,30,23
+,,,
+"12:00 AM AST on March 15, 2015",17,29,23
+,,,
+"12:00 AM AST on March 16, 2015",17,30,24
+,,,
+"12:00 AM AST on March 17, 2015",18,28,23
+,,,
+"12:00 AM AST on March 18, 2015",18,20,19
+,,,
+"12:00 AM AST on March 19, 2015",16,27,22
+,,,
+"12:00 AM AST on March 20, 2015",20,28,24
+,,,
+"12:00 AM AST on March 21, 2015",17,29,23
+,,,
+"12:00 AM AST on March 22, 2015",15,24,20
+,,,
+"12:00 AM AST on March 23, 2015",11,22,16
+,,,
+"12:00 AM AST on March 24, 2015",11,25,18
+,,,
+"12:00 AM AST on March 25, 2015",15,26,20
+,,,
+"12:00 AM AST on March 26, 2015",17,23,20
+,,,
+"12:00 AM AST on March 27, 2015",14,27,20
+,,,
+"12:00 AM AST on March 28, 2015",16,30,23
+,,,
+"12:00 AM AST on March 29, 2015",18,28,23
+,,,
+"12:00 AM AST on March 30, 2015",20,31,26
+,,,
+"12:00 AM AST on March 31, 2015",19,28,24
+,,,
+"12:00 AM AST on April 01, 2015",20,31,26
+,,,
+"12:00 AM AST on April 02, 2015",16,28,22
+,,,
+"12:00 AM AST on April 03, 2015",16,30,23
+,,,
+"12:00 AM AST on April 04, 2015",20,34,27
+,,,
+"12:00 AM AST on April 05, 2015",21,35,28
+,,,
+"12:00 AM AST on April 06, 2015",18,32,25
+,,,
+"12:00 AM AST on April 07, 2015",18,34,26
+,,,
+"12:00 AM AST on April 08, 2015",24,36,30
+,,,
+"12:00 AM AST on April 09, 2015",21,38,30
+,,,
+"12:00 AM AST on April 10, 2015",26,36,31
+,,,
+"12:00 AM AST on April 11, 2015",27,32,30
+,,,
+"12:00 AM AST on April 12, 2015",23,32,28
+,,,
+"12:00 AM AST on April 13, 2015",18,27,22
+,,,
+"12:00 AM AST on April 14, 2015",15,29,22
+,,,
+"12:00 AM AST on April 15, 2015",17,28,22
+,,,
+"12:00 AM AST on April 16, 2015",21,32,26
+,,,
+"12:00 AM AST on April 17, 2015",23,32,28
+,,,
+"12:00 AM AST on April 18, 2015",19,31,25
+,,,
+"12:00 AM AST on April 19, 2015",18,33,26
+,,,
+"12:00 AM AST on April 20, 2015",18,35,26
+,,,
+"12:00 AM AST on April 21, 2015",21,38,30
+,,,
+"12:00 AM AST on April 22, 2015",24,38,31
+,,,
+"12:00 AM AST on April 23, 2015",22,37,30
+,,,
+"12:00 AM AST on April 24, 2015",20,28,24
+,,,
+"12:00 AM AST on April 25, 2015",16,28,22
+,,,
+"12:00 AM AST on April 26, 2015",16,32,24
+,,,
+"12:00 AM AST on April 27, 2015",20,33,26
+,,,
+"12:00 AM AST on April 28, 2015",22,38,30
+,,,
+"12:00 AM AST on April 29, 2015",20,39,30
+,,,
+"12:00 AM AST on April 30, 2015",21,40,30
+,,,
+"12:00 AM AST on May 01, 2015",25,42,34
+,,,
+"12:00 AM AST on May 02, 2015",26,40,33
+,,,
+"12:00 AM AST on May 03, 2015",27,36,32
+,,,
+"12:00 AM AST on May 04, 2015",26,38,32
+,,,
+"12:00 AM AST on May 05, 2015",24,38,31
+,,,
+"12:00 AM AST on May 06, 2015",26,38,32
+,,,
+"12:00 AM AST on May 07, 2015",26,33,30
+,,,
+"12:00 AM AST on May 08, 2015",26,36,31
+,,,
+"12:00 AM AST on May 09, 2015",23,39,31
+,,,
+"12:00 AM AST on May 10, 2015",23,37,30
+,,,
+"12:00 AM AST on May 11, 2015",25,41,33
+,,,
+"12:00 AM AST on May 12, 2015",27,42,34
+,,,
+"12:00 AM AST on May 13, 2015",28,42,35
+,,,
+"12:00 AM AST on May 14, 2015",6,40,23
+,,,
+"12:00 AM AST on May 15, 2015",29,37,33
+,,,
+"12:00 AM AST on May 16, 2015",26,36,31
+,,,
+"12:00 AM AST on May 17, 2015",23,40,32
+,,,
+"12:00 AM AST on May 18, 2015",25,41,33
+,,,
+"12:00 AM AST on May 19, 2015",26,41,34
+,,,
+"12:00 AM AST on May 20, 2015",26,43,34
+,,,
+"12:00 AM AST on May 21, 2015",29,44,36
+,,,
+"12:00 AM AST on May 22, 2015",29,44,36
+,,,
+"12:00 AM AST on May 23, 2015",28,44,36
+,,,
+"12:00 AM AST on May 24, 2015",28,41,34
+,,,
+"12:00 AM AST on May 25, 2015",30,42,36
+,,,
+"12:00 AM AST on May 26, 2015",31,42,36
+,,,
+"12:00 AM AST on May 27, 2015",28,44,36
+,,,
+"12:00 AM AST on May 28, 2015",26,43,34
+,,,
+"12:00 AM AST on May 29, 2015",31,47,39
+,,,
+"12:00 AM AST on May 30, 2015",33,48,40
+,,,
+"12:00 AM AST on May 31, 2015",34,46,40
+,,,
+"12:00 AM AST on June 01, 2015",29,47,38
+,,,
+"12:00 AM AST on June 02, 2015",31,48,40
+,,,
+"12:00 AM AST on June 03, 2015",32,46,39
+,,,
+"12:00 AM AST on June 04, 2015",30,47,38
+,,,
+"12:00 AM AST on June 05, 2015",31,49,40
+,,,
+"12:00 AM AST on June 06, 2015",28,46,37
+,,,
+"12:00 AM AST on June 07, 2015",31,47,39
+,,,
+"12:00 AM AST on June 08, 2015",30,44,37
+,,,
+"12:00 AM AST on June 09, 2015",29,47,38
+,,,
+"12:00 AM AST on June 10, 2015",29,49,39
+,,,
+"12:00 AM AST on June 11, 2015",30,47,38
+,,,
+"12:00 AM AST on June 12, 2015",29,43,36
+,,,
+"12:00 AM AST on June 13, 2015",28,44,36
+,,,
+"12:00 AM AST on June 14, 2015",29,45,37
+,,,
+"12:00 AM AST on June 15, 2015",29,45,37
+,,,
+"12:00 AM AST on June 16, 2015",32,45,38
+,,,
+"12:00 AM AST on June 17, 2015",32,45,38
+,,,
+"12:00 AM AST on June 18, 2015",31,46,38
+,,,
+"12:00 AM AST on June 19, 2015",31,44,38
+,,,
+"12:00 AM AST on June 20, 2015",29,45,38
+,,,
+"12:00 AM AST on June 21, 2015",29,43,36
+,,,
+"12:00 AM AST on June 22, 2015",30,45,38
+,,,
+"12:00 AM AST on June 23, 2015",27,43,35
+,,,
+"12:00 AM AST on June 24, 2015",24,43,34
+,,,
+"12:00 AM AST on June 25, 2015",28,42,35
+,,,
+"12:00 AM AST on June 26, 2015",27,41,34
+,,,
+"12:00 AM AST on June 27, 2015",27,42,34
+,,,
+"12:00 AM AST on June 28, 2015",29,43,36
+,,,
+"12:00 AM AST on June 29, 2015",27,45,36
+,,,
+"12:00 AM AST on June 30, 2015",29,44,36
+,,,
+"12:00 AM AST on July 01, 2015",31,44,38
+,,,
+"12:00 AM AST on July 02, 2015",30,47,38
+,,,
+"12:00 AM AST on July 03, 2015",31,50,40
+,,,
+"12:00 AM AST on July 04, 2015",33,50,42
+,,,
+"12:00 AM AST on July 05, 2015",33,47,40
+,,,
+"12:00 AM AST on July 06, 2015",30,45,38
+,,,
+"12:00 AM AST on July 07, 2015",31,46,38
+,,,
+"12:00 AM AST on July 08, 2015",31,45,38
+,,,
+"12:00 AM AST on July 09, 2015",29,46,38
+,,,
+"12:00 AM AST on July 10, 2015",30,46,38
+,,,
+"12:00 AM AST on July 11, 2015",32,47,40
+,,,
+"12:00 AM AST on July 12, 2015",30,48,39
+,,,
+"12:00 AM AST on July 13, 2015",32,47,40
+,,,
+"12:00 AM AST on July 14, 2015",31,48,40
+,,,
+"12:00 AM AST on July 15, 2015",31,50,40
+,,,
+"12:00 AM AST on July 16, 2015",32,51,42
+,,,
+"12:00 AM AST on July 17, 2015",34,49,42
+,,,
+"12:00 AM AST on July 18, 2015",33,47,40
+,,,
+"12:00 AM AST on July 19, 2015",33,46,40
+,,,
+"12:00 AM AST on July 20, 2015",34,46,40
+,,,
+"12:00 AM AST on July 21, 2015",33,48,40
+,,,
+"12:00 AM AST on July 22, 2015",34,48,41
+,,,
+"12:00 AM AST on July 23, 2015",32,48,40
+,,,
+"12:00 AM AST on July 24, 2015",7,47,27
+,,,
+"12:00 AM AST on July 25, 2015",33,49,41
+,,,
+"12:00 AM AST on July 26, 2015",34,50,42
+,,,
+"12:00 AM AST on July 27, 2015",33,50,42
+,,,
+"12:00 AM AST on July 28, 2015",33,51,42
+,,,
+"12:00 AM AST on July 29, 2015",31,50,40
+,,,
+"12:00 AM AST on July 30, 2015",33,51,42
+,,,
+"12:00 AM AST on July 31, 2015",33,49,41
+,,,
+"12:00 AM AST on August 01, 2015",35,49,42
+,,,
+"12:00 AM AST on August 02, 2015",33,50,42
+,,,
+"12:00 AM AST on August 03, 2015",32,48,40
+,,,
+"12:00 AM AST on August 04, 2015",32,46,39
+,,,
+"12:00 AM AST on August 05, 2015",31,48,40
+,,,
+"12:00 AM AST on August 06, 2015",35,51,43
+,,,
+"12:00 AM AST on August 07, 2015",34,50,42
+,,,
+"12:00 AM AST on August 08, 2015",35,50,42
+,,,
+"12:00 AM AST on August 09, 2015",32,43,38
+,,,
+"12:00 AM AST on August 10, 2015",32,48,40
+,,,
+"12:00 AM AST on August 11, 2015",30,47,38
+,,,
+"12:00 AM AST on August 12, 2015",32,45,38
+,,,
+"12:00 AM AST on August 13, 2015",32,46,39
+,,,
+"12:00 AM AST on August 14, 2015",33,48,40
+,,,
+"12:00 AM AST on August 15, 2015",32,50,41
+,,,
+"12:00 AM AST on August 16, 2015",31,48,40
+,,,
+"12:00 AM AST on August 17, 2015",31,49,40
+,,,
+"12:00 AM AST on August 18, 2015",32,50,41
+,,,
+"12:00 AM AST on August 19, 2015",30,50,40
+,,,
+"12:00 AM AST on August 20, 2015",31,50,40
+,,,
+"12:00 AM AST on August 21, 2015",28,50,39
+,,,
+"12:00 AM AST on August 22, 2015",30,48,39
+,,,
+"12:00 AM AST on August 23, 2015",30,49,40
+,,,
+"12:00 AM AST on August 24, 2015",32,48,40
+,,,
+"12:00 AM AST on August 25, 2015",35,47,41
+,,,
+"12:00 AM AST on August 26, 2015",33,49,41
+,,,
+"12:00 AM AST on August 27, 2015",34,48,41
+,,,
+"12:00 AM AST on August 28, 2015",14,48,31
+,,,
+"12:00 AM AST on August 29, 2015",34,50,42
+,,,
+"12:00 AM AST on August 30, 2015",35,49,42
+,,,
+"12:00 AM AST on August 31, 2015",35,47,41
+,,,
+"12:00 AM AST on September 01, 2015",31,44,38
+,,,
+"12:00 AM AST on September 02, 2015",27,43,35
+,,,
+"12:00 AM AST on September 03, 2015",29,45,37
+,,,
+"12:00 AM AST on September 04, 2015",29,46,38
+,,,
+"12:00 AM AST on September 05, 2015",31,42,36
+,,,
+"12:00 AM AST on September 06, 2015",31,43,37
+,,,
+"12:00 AM AST on September 07, 2015",32,45,38
+,,,
+"12:00 AM AST on September 08, 2015",33,46,40
+,,,
+"12:00 AM AST on September 09, 2015",31,43,37
+,,,
+"12:00 AM AST on September 10, 2015",31,45,38
+,,,
+"12:00 AM AST on September 11, 2015",31,44,38
+,,,
+"12:00 AM AST on September 12, 2015",31,45,38
+,,,
+"12:00 AM AST on September 13, 2015",31,45,38
+,,,
+"12:00 AM AST on September 14, 2015",30,44,37
+,,,
+"12:00 AM AST on September 15, 2015",30,47,38
+,,,
+"12:00 AM AST on September 16, 2015",29,46,38
+,,,
+"12:00 AM AST on September 17, 2015",27,45,36
+,,,
+"12:00 AM AST on September 18, 2015",29,45,37
+,,,
+"12:00 AM AST on September 19, 2015",29,44,36
+,,,
+"12:00 AM AST on September 20, 2015",27,44,36
+,,,
+"12:00 AM AST on September 21, 2015",26,43,34
+,,,
+"12:00 AM AST on September 22, 2015",26,44,35
+,,,
+"12:00 AM AST on September 23, 2015",27,43,35
+,,,
+"12:00 AM AST on September 24, 2015",25,42,34
+,,,
+"12:00 AM AST on September 25, 2015",25,42,34
+,,,
+"12:00 AM AST on September 26, 2015",28,42,35
+,,,
+"12:00 AM AST on September 27, 2015",30,42,36
+,,,
+"12:00 AM AST on September 28, 2015",25,43,34
+,,,
+"12:00 AM AST on September 29, 2015",25,42,34
+,,,
+"12:00 AM AST on September 30, 2015",26,41,34
+,,,
+"12:00 AM AST on October 01, 2015",29,38,34
+,,,
+"12:00 AM AST on October 02, 2015",28,43,36
+,,,
+"12:00 AM AST on October 03, 2015",25,44,34
+,,,
+"12:00 AM AST on October 04, 2015",28,45,36
+,,,
+"12:00 AM AST on October 05, 2015",26,44,35
+,,,
+"12:00 AM AST on October 06, 2015",25,43,34
+,,,
+"12:00 AM AST on October 07, 2015",30,40,36
+,,,
+"12:00 AM AST on October 08, 2015",29,39,34
+,,,
+"12:00 AM AST on October 09, 2015",27,39,33
+,,,
+"12:00 AM AST on October 10, 2015",27,38,32
+,,,
+"12:00 AM AST on October 11, 2015",23,38,31
+,,,
+"12:00 AM AST on October 12, 2015",21,37,29
+,,,
+"12:00 AM AST on October 13, 2015",20,40,30
+,,,
+"12:00 AM AST on October 14, 2015",26,41,34
+,,,
+"12:00 AM AST on October 15, 2015",29,39,34
+,,,
+"12:00 AM AST on October 16, 2015",25,39,32
+,,,
+"12:00 AM AST on October 17, 2015",25,38,32
+,,,
+"12:00 AM AST on October 18, 2015",24,37,30
+,,,
+"12:00 AM AST on October 19, 2015",23,38,30
+,,,
+"12:00 AM AST on October 20, 2015",26,38,32
+,,,
+"12:00 AM AST on October 21, 2015",24,39,32
+,,,
+"12:00 AM AST on October 22, 2015",21,30,26
+,,,
+"12:00 AM AST on October 23, 2015",20,33,26
+,,,
+"12:00 AM AST on October 24, 2015",20,36,28
+,,,
+"12:00 AM AST on October 25, 2015",21,38,30
+,,,
+"12:00 AM AST on October 26, 2015",20,37,28
+,,,
+"12:00 AM AST on October 27, 2015",25,35,30
+,,,
+"12:00 AM AST on October 28, 2015",24,31,28
+,,,
+"12:00 AM AST on October 29, 2015",21,30,26
+,,,
+"12:00 AM AST on October 30, 2015",21,29,25
+,,,
+"12:00 AM AST on October 31, 2015",20,29,24
+,,,
+"12:00 AM AST on November 01, 2015",19,28,24
+,,,
+"12:00 AM AST on November 02, 2015",17,29,23
+,,,
+"12:00 AM AST on November 03, 2015",17,27,22
+,,,
+"12:00 AM AST on November 04, 2015",18,27,22
+,,,
+"12:00 AM AST on November 05, 2015",17,31,24
+,,,
+"12:00 AM AST on November 06, 2015",22,29,26
+,,,
+"12:00 AM AST on November 07, 2015",20,32,26
+,,,
+"12:00 AM AST on November 08, 2015",18,28,23
+,,,
+"12:00 AM AST on November 09, 2015",18,28,23
+,,,
+"12:00 AM AST on November 10, 2015",19,26,22
+,,,
+"12:00 AM AST on November 11, 2015",16,26,21
+,,,
+"12:00 AM AST on November 12, 2015",15,25,20
+,,,
+"12:00 AM AST on November 13, 2015",15,25,20
+,,,
+"12:00 AM AST on November 14, 2015",14,26,20
+,,,
+"12:00 AM AST on November 15, 2015",12,26,19
+,,,
+"12:00 AM AST on November 16, 2015",13,27,20
+,,,
+"12:00 AM AST on November 17, 2015",17,27,22
+,,,
+"12:00 AM AST on November 18, 2015",17,27,22
+,,,
+"12:00 AM AST on November 19, 2015",16,25,20
+,,,
+"12:00 AM AST on November 20, 2015",12,24,18
+,,,
+"12:00 AM AST on November 21, 2015",12,24,18
+,,,
+"12:00 AM AST on November 22, 2015",9,24,16
+,,,
+"12:00 AM AST on November 23, 2015",10,22,16
+,,,
+"12:00 AM AST on November 24, 2015",11,22,16
+,,,
+"12:00 AM AST on November 25, 2015",9,27,18
+,,,
+"12:00 AM AST on November 26, 2015",10,26,18
+,,,
+"12:00 AM AST on November 27, 2015",12,28,20
+,,,
+"12:00 AM AST on November 28, 2015",14,28,21
+,,,
+"12:00 AM AST on November 29, 2015",13,26,20
+,,,
+"12:00 AM AST on November 30, 2015",12,27,20
+,,,
+"12:00 AM AST on December 01, 2015",17,28,22
+,,,
+"12:00 AM AST on December 02, 2015",18,27,22
+,,,
+"12:00 AM AST on December 03, 2015",14,20,18
+,,,
+"12:00 AM AST on December 04, 2015",10,19,15
+,,,
+"12:00 AM AST on December 05, 2015",6,17,12
+,,,
+"12:00 AM AST on December 06, 2015",5,14,10
+,,,
+"12:00 AM AST on December 07, 2015",2,14,8
+,,,
+"12:00 AM AST on December 08, 2015",2,17,10
+,,,
+"12:00 AM AST on December 09, 2015",4,18,11
+,,,
+"12:00 AM AST on December 10, 2015",5,20,12
+,,,
+"12:00 AM AST on December 11, 2015",5,19,12
+,,,
+"12:00 AM AST on December 12, 2015",8,21,14
+,,,
+"12:00 AM AST on December 13, 2015",11,23,17
+,,,
+"12:00 AM AST on December 14, 2015",12,19,16
+,,,
+"12:00 AM AST on December 15, 2015",8,17,12
+,,,
+"12:00 AM AST on December 16, 2015",8,19,14
+,,,
+"12:00 AM AST on December 17, 2015",6,19,12
+,,,
+"12:00 AM AST on December 18, 2015",12,21,16
+,,,
+"12:00 AM AST on December 19, 2015",11,22,16
+,,,
+"12:00 AM AST on December 20, 2015",9,17,13
+,,,
+"12:00 AM AST on December 21, 2015",7,19,13
+,,,
+"12:00 AM AST on December 22, 2015",6,19,12
+,,,
+"12:00 AM AST on December 23, 2015",5,14,10
+,,,
+"12:00 AM AST on December 24, 2015",9,13,11
+,,,
+"12:00 AM AST on December 25, 2015",9,17,13
+,,,
+"12:00 AM AST on December 26, 2015",7,18,12
+,,,
+"12:00 AM AST on December 27, 2015",6,19,12
+,,,
+"12:00 AM AST on December 28, 2015",6,19,12
+,,,
+"12:00 AM AST on December 29, 2015",5,19,12
+,,,
+"12:00 AM AST on December 30, 2015",12,18,14
